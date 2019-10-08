@@ -11,7 +11,7 @@
 
 [this is an inline-style link to website called apartment therapy](apartmenttherapy.com)
 
-this is an image in the directory of acanthomyrmex ferox:
+this is an embedded image of acanthomyrmex ferox:
 ![alt text](https://github.com/bingjie-wa/tfcb-homework01/blob/master/images/acanthomyrmex_ferox.jpg)
 
 this is a table:
