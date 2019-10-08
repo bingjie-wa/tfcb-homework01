@@ -9,13 +9,14 @@
 2. second item on a list
 3. third item on a list
 
-[this is an inline-style link](apartmenttherapy.com)
+[this is an inline-style link to website called apartment therapy](apartmenttherapy.com)
 
 this is an image in the directory of acanthomyrmex ferox:
 ![alt text](https://github.com/bingjie-wa/tfcb-homework01/blob/master/images/acanthomyrmex_ferox.jpg)
 
-this is a table
+this is a table:
+
 |color|number|shape|
----|---|---
-yellow|5|circle
-blue|7|square
+--- | --- | ---
+yellow | 5 | circle
+blue | 7 | square
